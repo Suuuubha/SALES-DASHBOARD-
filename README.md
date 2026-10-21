@@ -18,8 +18,5 @@ Business teams need to understand [sales performance / best-selling products / r
 - [e.g., Profit margin]
 - [e.g., Sales by region or product]
 
-## Files
-- `[file name]`: dashboard file
-
 ## Author
 Subhashini M | [LinkedIn](https://www.linkedin.com/in/subhashini-murugan) | [GitHub](https://github.com/Suuuubha)
